@@ -1,0 +1,45 @@
+body{
+background: lavender;
+font-family: monospace;
+text-align:center;
+
+color: #777;
+position: relative;
+display: block;
+}
+div {
+border: solid white 5px;
+margin: 20px;
+background-color: lavender;
+}
+
+ .header, p, span, .userTotal, .gems {
+max-width: 100%;
+justify-content: center;
+text: 18px;   
+}
+
+.clearfix {
+    overflow: auto;
+  
+    clear: both;
+} 
+#right {
+width: 45%;
+text-align: center;
+float: right;
+}
+#left{
+    width: 45%;
+    text-align: center;
+    float: left;
+}
+img {
+padding: 30px;
+max-height: 145px;
+}
+
+/* img:hover {
+transform: scale(1.4);
+transition: all 1s;
+}  */
