@@ -11,7 +11,7 @@ Crystal Collector is game application using HTML, CSS, Javascript and jQuery.  A
 - Javascript
 - Bootstrap
 
-## [Click here to find your next best friend!](https://clawrence005.github.io/FriendFinder/) 
+## [Click here to start the game!](https://clawrence005.github.io/CrystalCollector/) 
 
 gif/video goes here
 
